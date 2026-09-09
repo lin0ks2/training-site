@@ -144,15 +144,15 @@
 
     document.querySelectorAll('[data-multilang-screen]').forEach(img => {
       const screen = img.dataset.multilangScreen;
-      img.src = `./assets/img/app/screen-${screen}-${screenLang}.png`;
+      img.src = `./assets/img/app/screen-${screen}-${screenLang}.png?v=20260909-3`;
     });
 
     document.querySelectorAll('[data-app-screen]').forEach(img => {
       const screen = img.dataset.appScreen;
       if (screen === 'articles') {
-        img.src = `./assets/img/app/screen-2-${screenLang}.png`;
+        img.src = `./assets/img/app/screen-2-${screenLang}.png?v=20260909-3`;
       } else if (screen === 'prepositions') {
-        img.src = `./assets/img/app/screen-3-${screenLang}.png`;
+        img.src = `./assets/img/app/screen-3-${screenLang}.png?v=20260909-3`;
       }
     });
     const legalLang = lang === 'uk' ? 'uk' : 'ru';
