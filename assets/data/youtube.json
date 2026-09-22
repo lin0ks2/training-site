@@ -1,8 +1,14 @@
 {
-  "updatedAt": "2026-09-22T11:40:42.583951+00:00",
+  "updatedAt": "2026-09-22T16:58:20.102195+00:00",
   "channels": {
     "uk": {
       "videos": [
+        {
+          "id": "OcRSJjmX4r0",
+          "title": "Твоя німецька занадто проста! ТОП прикметників рівня B1, які змінять твою мову",
+          "published": "2026-09-22T15:00:05+00:00",
+          "thumbnail": "https://i4.ytimg.com/vi/OcRSJjmX4r0/hqdefault.jpg"
+        },
         {
           "id": "rjIbSFKXLy0",
           "title": "🚀 1 слово = 5 дієслів! | Сімейство Fahren",
@@ -14,12 +20,6 @@
           "title": "1 слово = 5 нових дієслів! 😱 Дієслово arbeiten 🇩🇪",
           "published": "2026-09-21T05:00:26+00:00",
           "thumbnail": "https://i4.ytimg.com/vi/OxnI46iZ7rA/hqdefault.jpg"
-        },
-        {
-          "id": "WzpmMdlrvG4",
-          "title": "Змінив телефон? Як миттєво відновити весь прогрес навчання 🔄",
-          "published": "2026-09-20T16:00:28+00:00",
-          "thumbnail": "https://i4.ytimg.com/vi/WzpmMdlrvG4/hqdefault.jpg"
         }
       ],
       "playlists": [
@@ -29,6 +29,13 @@
           "thumbnail": "https://i.ytimg.com/vi/6pWPB17RVBU/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AfQGgAKAD4oCDAgAEAEYEyA5KH8wDw==&rs=AOn4CLBmRKKEHZ9T5gbHkNlD7upXGfGoWA",
           "videoCount": null,
           "url": "https://www.youtube.com/playlist?list=PLbo9nmyjJYXY"
+        },
+        {
+          "id": "PLXMMPhiHIL-U",
+          "title": "Німецька B1 : Deutsch_B1",
+          "thumbnail": "https://i.ytimg.com/vi/OcRSJjmX4r0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCrXpsAcVg_ZZAsfiVqRJY9oDqdyA",
+          "videoCount": null,
+          "url": "https://www.youtube.com/playlist?list=PLXMMPhiHIL-U"
         },
         {
           "id": "PLWiGJJHNwCls",
@@ -68,14 +75,14 @@
         {
           "id": "PLLkxyBA6vBgE",
           "title": "Німецька А2 : Deutsch_A2",
-          "thumbnail": "https://i.ytimg.com/pl_c/PLLkxyBA6vBgE/studio_square_thumbnail.jpg?sqp=COi4ydUG-oaymwEICIAKENAFSFqi85f_AwYInbi91AY=&rs=AOn4CLDFs_TdVpFbyavKi0Rvs1TF57OgVQ",
+          "thumbnail": "https://i.ytimg.com/pl_c/PLLkxyBA6vBgE/studio_square_thumbnail.jpg?sqp=CNSiytUG-oaymwEICIAKENAFSFqi85f_AwYInbi91AY=&rs=AOn4CLBp3jURt0yKZm2Sg3lV6q036VWf6Q",
           "videoCount": null,
           "url": "https://www.youtube.com/playlist?list=PLLkxyBA6vBgE"
         },
         {
           "id": "PLCgV7MELMub4",
           "title": "Німецька A1 : Deutsch_A1",
-          "thumbnail": "https://i.ytimg.com/pl_c/PLCgV7MELMub4/studio_square_thumbnail.jpg?sqp=COSiydUG-oaymwEICIAKENAFSFqi85f_AwYIvLm91AY=&rs=AOn4CLAsW8KAJmORnurUcJOr1jP9nkZ0FA",
+          "thumbnail": "https://i.ytimg.com/pl_c/PLCgV7MELMub4/studio_square_thumbnail.jpg?sqp=CPm2ytUG-oaymwEICIAKENAFSFqi85f_AwYIvLm91AY=&rs=AOn4CLC23egR_fw18FEusZ1GYzWS6jqaOg",
           "videoCount": null,
           "url": "https://www.youtube.com/playlist?list=PLCgV7MELMub4"
         }
@@ -83,6 +90,12 @@
     },
     "ru": {
       "videos": [
+        {
+          "id": "xTrHn_EPPDs",
+          "title": "Главный кошмар уровня А2! Немецкие ГЛАГОЛЫ с предлогами, которые нужно выучить сегодня",
+          "published": "2026-09-22T15:00:11+00:00",
+          "thumbnail": "https://i1.ytimg.com/vi/xTrHn_EPPDs/hqdefault.jpg"
+        },
         {
           "id": "3b2vFYEUKz8",
           "title": "🇩🇪 1 слово = 10 глаголов! Секрет KOMMEN #shorts",
@@ -94,12 +107,6 @@
           "title": "🇩🇪 Глагол KOMMEN: 1 слово = 5 новых глаголов! 🚀",
           "published": "2026-09-21T05:00:22+00:00",
           "thumbnail": "https://i1.ytimg.com/vi/l5-RsN0MKSM/hqdefault.jpg"
-        },
-        {
-          "id": "M93xmOKz-2k",
-          "title": "🇩🇪 1 глагол HALTEN = 5 новых слов! Немецкий язык",
-          "published": "2026-09-20T05:00:21+00:00",
-          "thumbnail": "https://i2.ytimg.com/vi/M93xmOKz-2k/hqdefault.jpg"
         }
       ],
       "playlists": [
@@ -127,28 +134,28 @@
         {
           "id": "PLLC3q2I8iUhk",
           "title": "Немецкий A1 | Слова по частям речи DE",
-          "thumbnail": "https://i.ytimg.com/pl_c/PLLC3q2I8iUhk/studio_square_thumbnail.jpg?sqp=CODGydUG-oaymwEICIAKENAFSFqi85f_AwYI58K61AY=&rs=AOn4CLAmACxOnq3ENhoO3xleAX1c_Hxn0g",
+          "thumbnail": "https://i.ytimg.com/pl_c/PLLC3q2I8iUhk/studio_square_thumbnail.jpg?sqp=CJK-ytUG-oaymwEICIAKENAFSFqi85f_AwYI58K61AY=&rs=AOn4CLBCaMWYhF7BkBcb0Tlsl3HSPWJRNQ",
           "videoCount": null,
           "url": "https://www.youtube.com/playlist?list=PLLC3q2I8iUhk"
         },
         {
           "id": "PLYU_y1ToHQ5g",
           "title": "Немецкий A1 | Слова по темам DE",
-          "thumbnail": "https://i.ytimg.com/pl_c/PLYU_y1ToHQ5g/studio_square_thumbnail.jpg?sqp=CICqydUG-oaymwEICIAKENAFSFqi85f_AwYIk8O61AY=&rs=AOn4CLAxxImyQC73XHMFzpcmDYswZRSBjQ",
+          "thumbnail": "https://i.ytimg.com/pl_c/PLYU_y1ToHQ5g/studio_square_thumbnail.jpg?sqp=CITFytUG-oaymwEICIAKENAFSFqi85f_AwYIk8O61AY=&rs=AOn4CLDHfC3fZBk8HP_exr0jIZM1NvSaIg",
           "videoCount": null,
           "url": "https://www.youtube.com/playlist?list=PLYU_y1ToHQ5g"
         },
         {
           "id": "PLTRc0OtgN_-0",
           "title": "Немецкий A2 : Deutsch_A2",
-          "thumbnail": "https://i.ytimg.com/pl_c/PLTRc0OtgN_-0/studio_square_thumbnail.jpg?sqp=CN64ydUG-oaymwEICIAKENAFSFqi85f_AwYI8pa71AY=&rs=AOn4CLBIRNVfoEj_Q0dTt0Or3WeS4Idj7w",
+          "thumbnail": "https://i.ytimg.com/pl_c/PLTRc0OtgN_-0/studio_square_thumbnail.jpg?sqp=CMzBytUG-oaymwEICIAKENAFSFqi85f_AwYI8pa71AY=&rs=AOn4CLDaeGetAsFEO_KI9wg1JQ2Fz9ye-Q",
           "videoCount": null,
           "url": "https://www.youtube.com/playlist?list=PLTRc0OtgN_-0"
         },
         {
           "id": "PLFmrYe5tv-xo",
           "title": "Немецкий A1 : Deutsch_A1",
-          "thumbnail": "https://i.ytimg.com/pl_c/PLFmrYe5tv-xo/studio_square_thumbnail.jpg?sqp=CJuVydUG-oaymwEICIAKENAFSFqi85f_AwYIhcW61AY=&rs=AOn4CLDIyXVwo7tvDW_gXRrKLIq72YLRvw",
+          "thumbnail": "https://i.ytimg.com/pl_c/PLFmrYe5tv-xo/studio_square_thumbnail.jpg?sqp=CMXCytUG-oaymwEICIAKENAFSFqi85f_AwYIhcW61AY=&rs=AOn4CLDMt99tNskltifNE1HwtJsQ_Okbig",
           "videoCount": null,
           "url": "https://www.youtube.com/playlist?list=PLFmrYe5tv-xo"
         }
